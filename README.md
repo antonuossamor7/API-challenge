@@ -1,4 +1,4 @@
-# API-challenge# Python API Homework - What's the Weather Like?
+# API-challenge# Python API  - What's the Weather Like?
 
 ## Background
 
